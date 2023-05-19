@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.formatter.comment.line_length=100
+org.eclipse.jdt.core.formatter.indentation.size=4
+org.eclipse.jdt.core.formatter.lineSplit=100
+org.eclipse.jdt.core.formatter.tabulation.char=space
