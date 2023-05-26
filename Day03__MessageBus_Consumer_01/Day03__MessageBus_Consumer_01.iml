@@ -17,5 +17,6 @@
         <jarDirectory url="file://$MODULE_DIR$/../libs/rabbitmq" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="amqp-client-5.7.1" level="project" />
   </component>
 </module>

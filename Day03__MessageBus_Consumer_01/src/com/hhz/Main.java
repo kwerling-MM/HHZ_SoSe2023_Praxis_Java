@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class Main {
 
-    private final static String QUEUE_NAME = "hello";
+    private final static String QUEUE_NAME = "queue_hello";
 
     public static void main(String[] args) {
         ConnectionFactory factory = new ConnectionFactory();

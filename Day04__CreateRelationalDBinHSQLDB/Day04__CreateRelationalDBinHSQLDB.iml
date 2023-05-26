@@ -7,16 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../libs/rabbitmq" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../libs/rabbitmq" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="amqp-client-5.17.0" level="project" />
+    <orderEntry type="library" name="h2-2.1.212" level="project" />
   </component>
 </module>
